@@ -1,2 +1,2 @@
-# Amazon Clone
+### Amazon Clone
 The Amazon Homepage Frontend Clone is a static representation of the Amazon website's homepage, built purely with HTML and CSS. It mirrors the visual layout and design elements of the original Amazon homepage, including header, navigation bar, product listings, and footer sections. The clone provides a visual replica of the Amazon homepage, offering users a familiar browsing experience.
